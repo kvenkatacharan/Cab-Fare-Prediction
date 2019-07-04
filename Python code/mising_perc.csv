@@ -1,0 +1,14 @@
+,features,percentage
+0,passenger_count,0.34233785634258684
+1,fare_amount,0.14938379185858336
+2,pickup_datetime,0.0
+3,pickup_longitude,0.0
+4,pickup_latitude,0.0
+5,dropoff_longitude,0.0
+6,dropoff_latitude,0.0
+7,pickup_date,0.0
+8,pickup_day,0.0
+9,pickup_hour,0.0
+10,pickup_month,0.0
+11,pickup_year,0.0
+12,pickup_day_of_week,0.0
